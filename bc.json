@@ -193,7 +193,7 @@
         {
             "slug": "08-delete-todo",
             "title": "08-delete-todo",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08-delete-todo",
             "translations": [
                 "es",
@@ -204,7 +204,7 @@
         {
             "slug": "08.1-delete-live-test",
             "title": "08.1-delete-live-test",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08.1-delete-live-test",
             "translations": [
                 "es",
@@ -215,7 +215,7 @@
         {
             "slug": "08.2-finish-todos",
             "title": "08.2-finish-todos",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08.2-finish-todos",
             "translations": [
                 "es",
