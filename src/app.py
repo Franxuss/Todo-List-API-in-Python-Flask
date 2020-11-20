@@ -1,5 +1,5 @@
-from flask import Flask, jsonify, request, json
-
+from flask import Flask, jsonify, request
+import json
 app = Flask(__name__)
 
 todos = [
